@@ -1,0 +1,42 @@
+.extra-margin{
+    margin-bottom: 30px;
+}
+.color-bg{
+    background-color:#ff9999;
+}
+.gap{
+    padding: 20px 40px;
+}
+.button-1{
+    background-image:linear-gradient(tomato, salmon) ;
+    border-radius: 4px;
+    font-weight: 700;
+    color: black;
+    padding: 6px 12px;
+}
+.price{
+    color:darkred
+}
+
+.cat-1{
+    background: rgb(35,136,191);
+    background: linear-gradient(180deg, rgba(35,136,191,1) 68%, rgba(225,229,244,1) 100%);
+    padding: 10px 10px;
+    border-radius: 4px;
+}
+
+.cat-3{
+    background: rgb(39,157,159);
+    background: linear-gradient(180deg, rgba(39,157,159,0.9920343137254902) 54%, rgba(225,229,244,1) 100%);
+    padding: 10px 10px;
+    border-radius: 4px;
+}
+.cat-2{
+    background: rgb(179,71,97);
+    background: linear-gradient(180deg, rgba(179,71,97,1) 68%, rgba(225,229,244,1) 100%);
+    padding: 10px 10px;
+    border-radius: 4px;
+}
+.container h1{
+    color: whitesmoke;
+}
