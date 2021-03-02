@@ -1,5 +1,13 @@
+
 .extra-margin{
-    margin-bottom: 30px;
+    margin-bottom: 100px;
+}
+.extra-margin2{
+    margin: 100px 100px;
+    background-color:#ff9999 ;
+    padding: 25px 20px;
+    border-radius: 5px;
+
 }
 .color-bg{
     background-color:#ff9999;
@@ -13,6 +21,14 @@
     font-weight: 700;
     color: black;
     padding: 6px 12px;
+}
+.button-2{
+    background-image:linear-gradient(tomato ,salmon);
+    height: 40px;
+    border-radius: 4px;
+    font-weight: 700;
+    color: black;
+    padding: 6px 6px;
 }
 .price{
     color:darkred
@@ -39,4 +55,23 @@
 }
 .container h1{
     color: whitesmoke;
+}
+
+.card{
+    border: none;
+    border-radius: 5 px;
+}
+.cd{
+    box-shadow: 5px 5px 2px whitesmoke;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.hl{
+    height: 36px;
+}
+
+footer{
+    text-align: center;
 }
